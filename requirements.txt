@@ -4,3 +4,4 @@ pandas-ta
 pytz
 flask
 gunicorn
+dotenv
