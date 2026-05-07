@@ -1,6 +1,6 @@
-alpaca-trade-api
 alpaca-py
 pandas
 pandas-ta
-numpy
-dotenv
+pytz
+flask
+gunicorn
